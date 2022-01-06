@@ -2,3 +2,5 @@
 
 # azurehello
 Azure Cloud Dev Onboarding
+
+You can create this same repo by following the steps here: https://github.com/noahgift/azure-ml-devops
